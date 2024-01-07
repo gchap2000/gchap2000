@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm <a href="https://github.com/gchap2000">Greg Chapman</a>, a Cybersecurity Professional</a>,
 
-<!--
-**gchap2000/gchap2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Example 1</b>
+  - [Example 1](google.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Articles and write-ups</h2>
+
+- [Example](google.com)
+
+<h2> Certifications </h2>
+
+- [Example](google.com)
