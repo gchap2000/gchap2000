@@ -11,5 +11,6 @@
 
 <h2> Certifications </h2>
 
+- [GDAT](https://www.giac.org/certifications/defending-advanced-threats-gdat/)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
 - [CompTIA Network+](https://www.comptia.org/certifications/network)
