@@ -7,8 +7,9 @@
 
 <h2>Articles and write-ups</h2>
 
-- [Example](google.com)
+- [Explainer: Packed Malware](https://medium.com/@shellseekerscyber/explainer-packed-malware-16f09cc75035)
 
 <h2> Certifications </h2>
 
-- [Example](google.com)
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [CompTIA Network+](https://www.comptia.org/certifications/network)
