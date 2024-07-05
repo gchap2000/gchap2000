@@ -14,3 +14,5 @@
 - [GDAT](https://www.giac.org/certifications/defending-advanced-threats-gdat/)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
 - [CompTIA Network+](https://www.comptia.org/certifications/network)
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
